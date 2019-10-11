@@ -11,10 +11,8 @@ and finally prints to standard output the validation result of processes.
 2. pytest
 
 ### Running:
-1. Extract the contents from nu_challenge.zip
-2. cd to the root directory of the program
-3. Run [**python main.py PATH\TO\INPUTFILE**]
-4. Run tests with [**pytest test_authorizer.py**]
+1. Run [**python main.py PATH\TO\INPUTFILE**]
+2. Run tests with [**pytest test_authorizer.py**]
 
 ### Design:
 * The program stands on a structure similar to mvc, for the sake of the program simplicity 
